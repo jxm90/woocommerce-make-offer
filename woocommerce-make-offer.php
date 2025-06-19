@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: WooCommerce Make Offer
- * Plugin URI: https://yoursite.com
+ * Plugin URI: https://computerguyjoe.com
  * Description: Allow customers to make offers on products with automatic acceptance/rejection based on minimum thresholds.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: jxm90
  * License: GPL v2 or later
  * Requires at least: 5.0
  * Tested up to: 6.3
